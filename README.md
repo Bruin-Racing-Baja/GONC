@@ -1,2 +1,2 @@
-# GONC
-Globally Optimized New Code
+# KAGUYA
+Kinematic Analysis and Graphics Utility for Yielding Autonomy
