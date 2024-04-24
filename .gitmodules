@@ -1,0 +1,4 @@
+[submodule "lib/PIER23"]
+	path = lib/PIER23
+	url = https://github.com/Bruin-Racing-Baja/PIER23.git
+	branch = kaguya
